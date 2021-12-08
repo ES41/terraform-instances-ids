@@ -6,7 +6,7 @@ Pre-requisites:
 
 To customize your cluster name,change this part :
 ```
-# line 5
+# main.tf line 5
  query = {
     cluster_name = "change_me"
   }
