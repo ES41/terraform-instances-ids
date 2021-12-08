@@ -1,4 +1,7 @@
-# terraform-instances-ids
+# Terraform-instances-ids
+
+### This small script helps you get your AWS ECS instances id's as a terraform output
+
 Pre-requisites:
 - have boto3 moudle imported
 - needed AWS permissions 
