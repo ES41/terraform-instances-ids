@@ -1,4 +1,8 @@
 # terraform-instances-ids
+Pre-requisites:
+- have boto3 moudle imported
+- needed AWS permissions 
+
 
 To customize your cluster name,change this part :
 ```
